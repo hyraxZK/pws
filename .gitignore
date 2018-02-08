@@ -1,0 +1,11 @@
+addtree*.pws
+logic*.pws
+simple*.pws
+ntt*.pws
+conv*.pws
+curve*.pws
+rand*.pws
+matmult*.pws
+/local/
+*.svg
+SHA256*pws
